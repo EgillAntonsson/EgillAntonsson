@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Egill Antonssn (Github handle @EgillAntonsson)
+- 👋 Hi, my name is Egill Antonssn (Github handle @EgillAntonsson)
 - 🌐 My main place on the world wide web is my website 🤘 [egill.rocks](https://www.egill.rocks/home) 🤘
 
 <!---
